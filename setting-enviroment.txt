@@ -1,0 +1,5 @@
+npm init
+tsc --init
+yarn add express socket.io
+yarn add @types/express @types/socket.io -D
+npm install ejs
